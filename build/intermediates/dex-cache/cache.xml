@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\owais\.android\build-cache\7b7693a1456127113e23ce47d7a33d07a412dafa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\owais\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3733d52c4941659244bd1f77e6f4de37ca1d57d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\owais\.android\build-cache\09ea498078a1901adf8fb62282c0159bc3b7dae3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\owais\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8536c4ed386bcdb8e39fb7e7dde2737824c36cc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\owais\AndroidStudioProjects\BasicTransition\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9dbc500fa53d82099048e0e8cf6adfc54579429c">
+        <dex dex="C:\Users\owais\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0f46352a84137593efbfceca7ddc924b45ca8a6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\owais\.android\build-cache\aed6d4ca5ed9cd04cdb4aad9798738491c4e8419\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\owais\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac60789453c50d03255472a75636aeb8b100ad67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\owais\.android\build-cache\70ece0f8d56beb6d67f1923a7249ace8f96980c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="C:\Users\owais\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e27ed9e589bf263467435e0b42abe1af8c1b3f83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\owais\AndroidStudioProjects\BasicTransition\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\owais\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9d95fc05c6fcee3be4d55a507e9f8074a56da7ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\owais\.android\build-cache\11353db3e24a62a32f9dcc1bc27fffc74595faf9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\owais\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29f905955ec3bdaaa15337c21a7577affb779187\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\owais\.android\build-cache\f76fdf0cd07a02364a1fc5af38b68091591ba4fd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\owais\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5bbf44a3edf8105c99cbf47d574a268de8180734\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\owais\.android\build-cache\556dc9baf5bc842b30345d1108c2a001e539e77e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\owais\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a54eaa9fb03a0c3f90e13a08e5541cbaac9ef1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\owais\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\owais\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_14e55aaaa0002d0ba752df16384507c7422e91e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\owais\.android\build-cache\c2e7aeddbb9e5a3de5f71fe160f964c520ead1b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\owais\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ae60f89eb57673089114ab76c1337fac34b61cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\owais\.android\build-cache\0f2d648cd363811c48b9c77638a11a2fe595dde8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\owais\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe9f47545d9bc8668a05e585fe06ca9e1c715ec1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\owais\.android\build-cache\ab93f0a69d5807ae3b53778b58ff81eab5c50e80\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\owais\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5cff2664c9f8cc4cdc563a584964461dc408019\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\owais\.android\build-cache\239ec94ef9c8f0d68280f23a8c8ebab1023a255e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\owais\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28671bfcd438c001c34138df529501b45fcafc73\classes.dex" />
+    </item>
+
+</items>
